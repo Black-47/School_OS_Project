@@ -1,2 +1,2 @@
-# Moduler-school-system
+# School_OS_Project
 School management system python 
