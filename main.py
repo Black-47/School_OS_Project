@@ -7,7 +7,7 @@ import sqlite3
 
 def main():
     st.set_page_config(
-        page_title="EduMaster OS | 2026", 
+        page_title="FRB Academy | 2026", 
         page_icon="🏫", 
         layout="wide",
         initial_sidebar_state="expanded"
@@ -27,7 +27,7 @@ def main():
         show_unified_dashboard()
 
 def show_login_screen():
-    st.title("🏫 EduMaster School OS")
+    st.title("🏫 FRB Academy")
     st.subheader("Login to access your workspace")
     
     with st.form("main_login"):
